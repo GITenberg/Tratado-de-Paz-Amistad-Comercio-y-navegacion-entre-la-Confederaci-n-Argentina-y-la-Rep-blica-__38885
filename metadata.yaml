@@ -1,0 +1,38 @@
+_repo: Tratado-de-Paz-Amistad-Comercio-y-navegacion-entre-la-Confederaci-n-Argentina-y-la-Rep-blica-__38885
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38885-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Paraguay
+    aliases:
+    - Republica del Paraguay
+    - República del Paraguay
+    gutenberg_agent_id: '41794'
+    url: http://www.gutenberg.org/2009/agents/41794
+  - agent_name: Argentina
+    aliases:
+    - Nación Argentina
+    - República Argentina
+    - Republica Argentina
+    - Nacion Argentina
+    gutenberg_agent_id: '39692'
+    url: http://www.gutenberg.org/2009/agents/39692
+description: ''
+gutenberg_issued: '2012-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38885'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Foreign relations -- Paraguay -- Sources'
+- !lcsh 'Paraguay -- Foreign relations -- Argentina -- Sources'
+- !lcc 'F2661'
+- !lcc 'F2801'
+title: Tratado de Paz, Amistad, Comercio y navegacion entre la Confederación Argentina
+  y la República del Paraguay
+url: http://www.gutenberg.org/ebooks/38885
