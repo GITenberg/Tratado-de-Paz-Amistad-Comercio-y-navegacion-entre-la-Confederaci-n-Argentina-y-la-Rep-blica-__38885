@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '39692'
     url: http://www.gutenberg.org/2009/agents/39692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38885#Tratado-de-Paz-Amistad-Comercio-y-navegacion-entre-la-Confederaci-n-Argentina-y-la-Rep-blica-_
 gutenberg_issued: '2012-02-15'
 gutenberg_type: Text
 identifiers:
